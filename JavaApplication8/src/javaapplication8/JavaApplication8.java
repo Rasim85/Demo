@@ -4,6 +4,8 @@
  */
 package javaapplication8;
 
+import java.io.File;
+
 /**
  *
  * @author rasimsafarli
@@ -15,6 +17,8 @@ public class JavaApplication8 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        File f=new File("forgit.txt");
     }
     
 }
